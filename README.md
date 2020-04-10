@@ -1,2 +1,2 @@
 # semantic-ui-scss
-Sass implementation of Semenatic UI Css
+sass implementation of Semenatic UI css
